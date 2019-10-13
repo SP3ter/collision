@@ -1,2 +1,6 @@
 
 collision - collision detection is one of the most important things you should know before creating a game. This program was made for testing the collision detection.
+
+A collision is the event in which two or more bodies exert forces on each other in about a relatively short time. Although the most common use of the word collision refers to incidents in which two or more objects collide with great force, the scientific use of the term implies nothing about the magnitude of the force.
+
+Collision is short-duration interaction between two bodies or more than two bodies simultaneously causing change in motion of bodies involved due to internal forces acted between them during this. Collisions involve forces (there is a change in velocity). The magnitude of the velocity difference just before impact is called the closing speed. All collisions conserve momentum. What distinguishes different types of collisions is whether they also conserve kinetic energy. The Line of impact is the line that is colinear to the common normal of the surfaces that are closest or in contact during impact. This is the line along which internal force of collision acts during impact, and Newton's coefficient of restitution is defined only along this line. 
